@@ -8,13 +8,14 @@
 		"rootDirs": [
 			"./src"
 		],
+		"rootDir": "./src",
 		"outDir": "./build",
 		"allowJs": true,
 		"target": "es2017",
 		"esModuleInterop": true,
 		"emitDecoratorMetadata": true,
 		"experimentalDecorators": true,
-		"moduleResolution": "node16",
+		"moduleResolution": "node",
 		"strictNullChecks": true,
 	},
 	"include": [
